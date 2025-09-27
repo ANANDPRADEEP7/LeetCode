@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0075-sort-colors) |
+| [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0009-palindrome-number) |
+| [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
