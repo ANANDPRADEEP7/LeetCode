@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
+| [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Tree
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1642-water-bottles) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
