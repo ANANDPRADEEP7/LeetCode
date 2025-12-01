@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0001-two-sum) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
