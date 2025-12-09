@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Enumeration
 |  |
 | ------- |
