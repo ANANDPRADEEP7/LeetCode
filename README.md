@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0485-max-consecutive-ones](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0575-distribute-candies) |
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
