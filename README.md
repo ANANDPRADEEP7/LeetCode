@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0263-ugly-number) |
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1925-count-square-sum-triples) |
