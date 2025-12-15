@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0575-distribute-candies) |
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
+| [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
