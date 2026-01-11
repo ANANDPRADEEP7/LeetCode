@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0476-number-complement) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
