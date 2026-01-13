@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
