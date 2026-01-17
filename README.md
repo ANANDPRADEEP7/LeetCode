@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0303-range-sum-query-immutable](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0575-distribute-candies) |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
