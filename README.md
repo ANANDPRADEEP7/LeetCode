@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
