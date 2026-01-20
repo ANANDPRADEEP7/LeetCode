@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0476-number-complement) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## String
 |  |
 | ------- |
