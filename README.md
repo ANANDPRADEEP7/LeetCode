@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
