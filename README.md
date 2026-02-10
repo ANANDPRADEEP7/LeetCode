@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1642-water-bottles) |
+| [3379-transformed-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
