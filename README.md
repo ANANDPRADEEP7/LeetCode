@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0476-number-complement) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
