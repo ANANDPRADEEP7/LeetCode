@@ -3,7 +3,8 @@
  * @return {number[]}
  */
 var countBits = function(n) {
-   let count = 0, result;
+   let count = 0;
+   let result=0;
     let output = [];
     for (var i = 0; i <= n; i++) {
         result = i;
