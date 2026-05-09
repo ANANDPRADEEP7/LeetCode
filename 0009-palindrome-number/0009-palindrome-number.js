@@ -3,6 +3,6 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-    let w=x.toString().split('').reverse().join('')
-    return w==x?true:false
+    let a=x.toString().split('').reverse().join('')
+    return a==x?true:false
 };
