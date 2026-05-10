@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Enumeration
