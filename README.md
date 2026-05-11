@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2815-max-pair-sum-in-an-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0929-unique-email-addresses) |
+| [2815-max-pair-sum-in-an-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
