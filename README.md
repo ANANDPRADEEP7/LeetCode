@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3606-coupon-code-validator](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Tree
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
