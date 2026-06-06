@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/ANANDPRADEEP7/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
